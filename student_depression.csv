@@ -1,0 +1,90 @@
+id,Gender,Age,City,Academic Pressure,CGPA,Sleep Duration,Have you ever had suicidal thoughts ?,Work/Study Hours,Depression
+2,Male,33,Visakhapatnam,5,8.97,5-6 hours,Yes,3,1
+8,Female,24,Bangalore,2,5.9,5-6 hours,No,3,0
+26,Male,31,Srinagar,3,7.03,Less than 5 hours,No,9,0
+30,Female,28,Varanasi,3,5.59,7-8 hours,Yes,4,1
+32,Female,25,Jaipur,4,8.13,5-6 hours,Yes,1,0
+33,Male,29,Pune,2,5.7,Less than 5 hours,No,4,0
+52,Male,30,Thane,3,9.54,7-8 hours,No,1,0
+56,Female,30,Chennai,2,8.04,Less than 5 hours,No,0,0
+59,Male,28,Nagpur,3,9.79,7-8 hours,Yes,12,1
+62,Male,31,Nashik,2,8.38,Less than 5 hours,Yes,2,1
+83,Male,24,Nagpur,3,6.1,5-6 hours,Yes,11,1
+91,Male,33,Vadodara,3,7.03,Less than 5 hours,Yes,10,0
+94,Male,27,Kalyan,5,7.04,Less than 5 hours,No,10,1
+100,Female,19,Rajkot,2,8.52,Less than 5 hours,No,6,0
+103,Female,19,Kalyan,5,5.64,Less than 5 hours,Yes,4,1
+106,Male,29,Srinagar,3,8.58,More than 8 hours,Yes,10,1
+120,Male,25,Nashik,5,6.51,Less than 5 hours,Yes,2,1
+132,Female,20,Ahmedabad,5,7.25,5-6 hours,Yes,10,1
+139,Male,19,Chennai,2,7.83,7-8 hours,No,6,0
+145,Male,25,Kalyan,3,9.93,5-6 hours,No,8,1
+161,Male,29,Kolkata,3,8.74,5-6 hours,Yes,1,0
+162,Male,29,Kolkata,3,6.73,7-8 hours,No,0,0
+166,Female,25,Ahmedabad,3,5.57,More than 8 hours,Yes,10,1
+172,Male,23,Thane,1,8.59,7-8 hours,No,11,0
+173,Male,18,Bangalore,4,7.1,More than 8 hours,Yes,11,1
+176,Female,20,Mumbai,5,8.58,7-8 hours,No,2,1
+186,Male,31,Ahmedabad,2,6.08,7-8 hours,Yes,3,1
+193,Male,25,Lucknow,3,7.25,More than 8 hours,Yes,10,1
+208,Male,33,Indore,5,5.74,Less than 5 hours,No,8,0
+214,Male,28,Kalyan,3,9.86,7-8 hours,Yes,11,1
+222,Male,18,Surat,4,6.7,Less than 5 hours,Yes,5,1
+232,Male,18,Visakhapatnam,2,6.21,5-6 hours,Yes,4,1
+239,Male,21,Jaipur,1,7.25,Less than 5 hours,Yes,7,0
+240,Female,31,Kalyan,1,5.87,7-8 hours,No,8,0
+242,Male,21,Surat,1,8.04,More than 8 hours,No,0,0
+253,Female,25,Ludhiana,1,6.37,7-8 hours,Yes,2,0
+255,Female,21,Bhopal,5,9.72,5-6 hours,Yes,0,1
+263,Male,28,Srinagar,5,5.88,7-8 hours,Yes,9,0
+270,Male,28,Thane,1,9.56,7-8 hours,No,6,0
+273,Male,25,Meerut,3,6.51,7-8 hours,Yes,3,1
+274,Female,20,Thane,3,6.99,7-8 hours,Yes,11,1
+277,Male,23,Agra,2,6.1,5-6 hours,Yes,10,0
+280,Male,19,Agra,1,5.24,5-6 hours,Yes,2,0
+285,Female,33,Ghaziabad,4,9.21,Less than 5 hours,Yes,10,1
+294,Female,23,Chennai,1,7.85,More than 8 hours,No,12,0
+301,Male,22,Lucknow,1,9.93,7-8 hours,No,10,0
+303,Female,19,Meerut,2,6.95,Less than 5 hours,Yes,2,0
+305,Female,30,Hyderabad,1,5.86,Less than 5 hours,No,1,0
+310,Male,21,Kalyan,3,7.04,Less than 5 hours,No,1,0
+312,Female,19,Rajkot,5,6.99,More than 8 hours,Yes,0,1
+315,Male,23,Kalyan,3,7.92,Less than 5 hours,No,10,0
+316,Female,23,Vasai-Virar,5,9.66,7-8 hours,Yes,12,1
+324,Female,18,Vadodara,3,5.7,5-6 hours,Yes,11,1
+328,Male,28,Srinagar,4,8.94,7-8 hours,Yes,12,1
+335,Male,24,Hyderabad,2,8.04,5-6 hours,No,8,0
+336,Female,33,Srinagar,1,9.71,More than 8 hours,Yes,5,0
+337,Female,20,Kalyan,3,8.04,5-6 hours,Yes,7,1
+340,Male,23,Kalyan,5,7.87,7-8 hours,Yes,11,1
+343,Male,23,Pune,5,5.74,5-6 hours,Yes,11,1
+347,Female,24,Ludhiana,3,5.6,Less than 5 hours,Yes,9,1
+348,Male,25,Jaipur,5,9.21,5-6 hours,No,7,0
+351,Female,24,Bhopal,4,7.9,5-6 hours,Yes,3,1
+367,Female,24,Kolkata,3,5.46,7-8 hours,Yes,10,1
+370,Male,31,Nashik,1,6.79,More than 8 hours,Yes,0,0
+381,Male,20,Thane,5,8.7,Less than 5 hours,Yes,4,1
+385,Male,21,Ludhiana,2,7.38,Less than 5 hours,Yes,2,1
+392,Male,25,Kanpur,1,8.5,7-8 hours,Yes,11,0
+398,Male,19,Mumbai,2,7.09,7-8 hours,No,11,0
+407,Female,34,Surat,3,9.82,More than 8 hours,Yes,12,0
+408,Male,24,Agra,1,8.89,5-6 hours,No,10,0
+414,Male,33,Hyderabad,5,7.94,Less than 5 hours,No,8,0
+420,Male,32,Patna,3,9.11,7-8 hours,Yes,5,1
+421,Male,18,Bhopal,3,6.75,7-8 hours,Yes,6,1
+423,Female,31,Indore,1,7.53,Less than 5 hours,Yes,7,0
+425,Female,25,Kalyan,3,9.49,7-8 hours,No,9,0
+429,Male,20,Surat,1,9.01,5-6 hours,No,3,0
+441,Male,31,Ghaziabad,2,7.64,7-8 hours,No,0,0
+447,Male,24,Surat,5,5.27,7-8 hours,Yes,6,1
+454,Male,24,Lucknow,5,8.74,Less than 5 hours,Yes,8,1
+455,Female,23,Rajkot,5,6,5-6 hours,No,0,1
+457,Female,25,Varanasi,2,9.44,More than 8 hours,Yes,7,1
+464,Male,25,Srinagar,2,5.75,More than 8 hours,Yes,5,1
+467,Female,25,Ghaziabad,1,7.51,More than 8 hours,Yes,7,0
+475,Female,28,Kalyan,2,6.37,5-6 hours,Yes,4,1
+477,Female,20,Ahmedabad,4,6.95,More than 8 hours,Yes,12,1
+484,Female,24,Faridabad,1,7.1,Less than 5 hours,Yes,6,1
+487,Male,23,Ludhiana,1,9.66,5-6 hours,No,12,0
+491,Male,19,Pune,3,9.05,More than 8 hours,No,1,1
+494,Female,24,Hyderabad,3,6.38,Less than 5 hours,No,11,1
